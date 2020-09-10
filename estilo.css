@@ -11,6 +11,10 @@ body {
     align-items: center;
 }
 
+input{
+    height: 50px;
+}
+
 header {
     height: 150px;
     width: 80%;
