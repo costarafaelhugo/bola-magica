@@ -1,4 +1,3 @@
-
 document.getElementById("bolaDeCristal").onclick = function(){
 
 
@@ -15,7 +14,7 @@ inicio.textContent.inn = typedText;
 
         alert("Digite sua pergunta!!!!!!");
     
-    }if( typedText != ''){
+    }if( typedText !== ''){
     
     switch(sorte){
             case 1: 
